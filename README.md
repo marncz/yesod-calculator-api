@@ -1,5 +1,3 @@
-# yesod-calculator-api
-
 # Database
 
 * sudo apt-get install sqlite3
